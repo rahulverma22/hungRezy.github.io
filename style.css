@@ -1,0 +1,186 @@
+.head:hover{
+    font-family: cursive;
+    font-size: 25px;    
+}
+.but{
+    color:white;
+   }
+.but:hover{
+    color:white;
+    margin: 3px;
+    }
+
+.admin{
+    margin-left:0px;
+    color:white;
+}
+.admin:hover{
+    color:white;
+    margin: 3px;
+    
+}
+.contact{
+    color:white;
+    text-align: right;
+    margin-right:0px;
+    margin-top: 2px;
+    text-decoration: none;
+}
+.contact:hover{
+    color:white;
+    font-family: cursive;
+    margin-top: 2px;
+
+}
+.rahul{
+    font-family: cursive;
+    color:coral;
+}
+.rahul:hover
+{
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 6px;
+    
+}
+.rahul1{
+    font-family: cursive;
+    color:darkgreen;
+}
+
+.rahul1:hover
+{
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 6px;
+}
+.rahul2{
+    font-family: cursive;
+    color:deepskyblue;
+}
+.rahul2:hover
+{
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 6px;
+}
+.rimg1:hover{
+    border-radius: 20px;
+    height:240px;
+}
+.rtext1:hover{
+text-transform: capitalize;
+    color:darkblue;
+    font-family:cursive
+}
+.rimg2:hover{
+    border-radius: 20px;
+    height:240px;
+}
+.rtext2:hover{
+text-transform: capitalize;
+    color:darkblue;
+    font-family:cursive
+}
+.rimg3:hover{
+    border-radius: 20px;
+    height:240px;
+}
+.rtext3:hover{
+text-transform: capitalize;
+    color:darkblue;
+    font-family:cursive
+}
+.ra{
+    font-display: none;
+}
+.ra:hover{
+    color: deepskyblue;
+    font-family: cursive;
+    margin-left: 5px;
+}
+.log{
+    text-decoration: none;
+    color:black
+}
+.log:hover{
+    text-decoration: none;
+    color:black
+}
+.logtext{
+    color:skyblue;
+    font-family: cursive;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.signtext{
+    color:greenyellow;
+    font-family: cursive;
+    font-size: 20px;
+    margin-bottom: 5px;
+
+}
+.sig{
+    text-decoration: none;
+    color:black;
+}
+.sig:hover{
+    text-decoration: none;
+    color:black
+}
+
+.loginimg{
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    margin-top: 20px;
+}
+.loginimg:hover{
+    height: 400px;
+    width: 410px;
+    border-bottom:2px solid red; 
+    border-top:2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+.signupimage{
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    margin-top: 20px;
+}
+.signupimage:hover{
+    height: 400px;
+    width: 410px;
+    border-bottom:2px solid red; 
+    border-top:2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+.f1 {
+    background-color: black;
+    
+}
+
+.copyrightline {
+    align-items: center;
+    align-content: justify;
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: whitesmoke;
+    margin-top: 20px;
+    
+}
+.ourservicesparagraph{
+    color:white;
+    margin-top:20px;
+}

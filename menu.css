@@ -1,0 +1,215 @@
+body{
+background-color: black;
+}
+.logo {
+    color: white;
+    font-family: sans-serif;
+    
+}
+.logo:hover {
+    text-decoration:none;
+    background-image: linear-gradient(white,skyblue);
+    font-family: cursive;
+    text-decoration: none;
+    
+}
+.d{
+   box-shadow:  20px 20px 40px lightgrey, 
+             -20px -20px 40px lightgrey;
+    overflow-x: hidden; 
+}
+.dropdown{
+    background-color: aliceblue;
+}
+.but{
+    color:white;
+   }
+.but:hover{
+    color:white;
+    margin: 3px;
+    }
+
+.admin{
+    margin-left:0px;
+    color:white;
+}
+.admin:hover{
+    color:white;
+    margin: 3px;
+    
+}
+.contact{
+    color:white;
+    text-align: right;
+    margin-right:0px;
+    margin-top: 2px;
+    text-decoration: none;
+}
+.contact:hover{
+    color:white;
+    font-family: cursive;
+    margin-top: 2px;
+
+}
+h1{
+    color:deepskyblue;
+    font-family: cursive;
+    font-size:70px;
+    margin-top: 10px;
+}
+h1:hover{
+    color:gold;
+    font-family: cursive;
+    font-size:75px;
+}
+h2{
+    color:white;
+    font-family: cursive
+}
+h2:hover{
+    color:lightcyan;
+    font-family: cursive;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.front{
+    background-color: white;
+    width: 300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px 10px lightgrey;
+}
+.back{
+    background-color: white;
+    width: 300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px 10px skyblue;
+}
+.other{
+    background-color: white;
+    width: 300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px 10px yellow;
+}
+.fronttext{
+    color: darkred;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+
+}
+.fronttext:hover{
+    color: lightsalmon;
+    text-align: center;
+    font-size: 37px;
+    font-style: bold;
+    text-decoration: underline;
+}
+.backtext{
+   color: darkred;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    
+}
+.backtext:hover{
+    color: lightsalmon;
+    text-align: center;
+    font-size: 37px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.othertext{
+    color: darkred;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+
+}
+.othertext:hover{
+    color: lightsalmon;
+    text-align: center;
+    font-size: 37px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.slist{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.slist:hover{
+    color: darkblue;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 27px;
+    font-family:monospace;
+}
+.f1 {
+    background-color: black;
+    box-shadow:  20px 20px 40px lightgrey, 
+             -20px -20px 40px lightgrey;
+    overflow-x: hidden;
+    margin-top: 20px;
+}
+
+.infomationtag {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    
+}
+
+
+
+.ourservicesparagraph {
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    font-family: serif;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.rahul{
+    color:white;
+}
+    
+.rahul:hover{
+    color:darkblue;
+    font-family: cursive;
+}
+    
+
+.copyrightline {
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-family: serif;
+}
+
